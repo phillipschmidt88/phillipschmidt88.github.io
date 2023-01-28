@@ -50,3 +50,7 @@ topics:
   - name: Robotics
     web_url: http://paulfurgale.info/news/2014/6/9/representing-robot-pose-the-good-the-bad-and-the-ugly
     image_url: http://wiki.ros.org/navigation?action=AttachFile&do=get&target=nav_comic.png
+    
+  - name: Computer Vision
+    web_url: https://www.robots.ox.ac.uk/~vgg/hzbook/
+    image_url: https://www.robots.ox.ac.uk/~vgg/hzbook/hzcover2.jpg
