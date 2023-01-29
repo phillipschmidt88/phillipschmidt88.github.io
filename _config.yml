@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: false
     projects:
-    # - repo-name
+     - phillipschmidt88.github.io
 
 social_media:
   # behance: your_username
@@ -53,4 +53,4 @@ topics:
     
   - name: Computer Vision
     web_url: https://www.robots.ox.ac.uk/~vgg/hzbook/
-    image_url: https://www.robots.ox.ac.uk/~vgg/hzbook/hzcover2.jpg
+    image_url: https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png
