@@ -54,3 +54,7 @@ topics:
   - name: Computer Vision
     web_url: https://www.robots.ox.ac.uk/~vgg/hzbook/
     image_url: https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png
+    
+  - name: Control Engineering
+    web_url: https://www.tandfonline.com/doi/abs/10.1080/00207179208934253?journalCode=tcon20
+    image_url: https://en.wikipedia.org/wiki/Control_system#/media/File:Ideal_feedback_model.svg
